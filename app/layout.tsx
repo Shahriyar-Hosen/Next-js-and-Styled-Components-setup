@@ -7,13 +7,13 @@ import { AppProps } from "next/app";
 import { ReactNode } from "react";
 import { ThemeProvider } from "styled-components";
 
+interface ILayoutProps extends AppProps {
+  children: ReactNode;
+}
+
 interface IMetadata {
   title: string;
   description: string;
-}
-
-interface ILayoutProps extends AppProps {
-  children: ReactNode;
 }
 
 export const metadata: IMetadata = {
