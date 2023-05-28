@@ -10,11 +10,21 @@ First, run the development server:
 yarn
 ```
 
+**`Project run`**
+
 ```bash
 npm run dev
-# or
+```
+
+**`or`**
+
+```bash
 yarn dev
-# or
+```
+
+**`or`**
+
+```bash
 pnpm dev
 ```
 
