@@ -6,7 +6,7 @@ export interface ITitle {}
 export const Main = styled.div<IMain>`
   width: 100%;
   height: 100vh;
-  background-color: gray;
+  background-color: transparent;
   display: flex;
   justify-content: center;
   align-items: center;
