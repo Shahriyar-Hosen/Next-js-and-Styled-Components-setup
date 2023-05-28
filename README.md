@@ -4,9 +4,10 @@
 
 First, run the development server:
 
+**`yarn install`**
+
 ```bash
-    # yarn install
-    yarn
+yarn
 ```
 
 ```bash
