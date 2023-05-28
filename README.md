@@ -1,4 +1,4 @@
-# Next js and Styled Components setup
+# <h1 align='center'>Next js and Styled Components setup</h1>
 
 ## Getting Started
 
